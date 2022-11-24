@@ -1,0 +1,159 @@
+img {
+    height: 200px;
+    width: 200px;
+    padding-left: 30px;
+    background-color: black;
+
+}
+
+#p1 {
+    background-color: black;
+    color: aqua;
+    text-align: center;
+}
+
+button {
+    color: blue;
+    background-color: black;
+    border-radius: 50px;
+
+}
+
+body {
+    background-image: url("https://wallpaperaccess.com/full/2152052.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+#form {
+    margin-left: 420px;
+    box-shadow: 0 0 50px grey;
+    margin-bottom: 200px;
+    width: 200px;
+    padding: 30px;
+    background-color: #7e8185;
+    border-radius: 30px;
+    font-weight: bolder;
+    border-color: black;
+}
+
+h1 {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190628/ourmid/pngtree-grunge-vector-banner-abstract-header-background-vector-triangles-seamless-banner-vintage-image_264169.jpg);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+#all {
+    background-color: black;
+    color: aqua;
+    text-align: center;
+}
+
+#awards {
+    background-color: black;
+    color: aqua;
+}
+
+#you {
+    background-color: blueviolet;
+    color: black;
+}
+
+#panel,
+#flip {
+    padding: 5px;
+    text-align: center;
+    background-color: black;
+    border: solid 3px red;
+    color: aliceblue;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+}
+
+#button3 {
+    background-color: chartreuse;
+}
+
+#button4 {
+    background-image: url(https://www.drupal.org/files/project-images/colours.jpg);
+    color: black;
+}
+
+p {
+    background-color: black;
+    color: aliceblue;
+}
+
+#lean,
+#clip {
+    padding: 5px;
+    font-size: 18px;
+    text-align: center;
+    background-color: black;
+    color: red;
+    border: solid 1px #666;
+
+}
+
+#lean {
+    padding: 50px;
+    display: none;
+}
+
+#stop {
+    border-radius: 0px;
+    background-color: aqua;
+    color: black;
+}
+
+#form1 {
+    background-color: #666;
+    color: black;
+
+}
+
+#link {
+    background-color: aliceblue;
+    color: black;
+}
+
+#w3s {
+    background-color: aliceblue;
+}
+
+#style {
+    background-color: aquamarine;
+    color: black;
+}
+
+#btn1,
+#btn2,
+#btn3 {
+    background-color: deepskyblue;
+    color: black;
+}
+
+#word {
+    background-color: blueviolet;
+}
+
+#word2 {
+    background-color: aquamarine;
+}
+
+#word3 {
+    border-color: cornflowerblue;
+}
+
+#dedo {
+    background-color: bisque;
+}
+
+.blue {
+    color: red;
+}
